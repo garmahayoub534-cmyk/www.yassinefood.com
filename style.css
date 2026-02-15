@@ -11,7 +11,7 @@ body{
       
       
       background-color: rgb(7, 7, 7);
-      background-image:url("images/background\ lufy.jpg");
+      background-image:url("images/background\ image1.jpg");
       background-size: 100%;
       background-position: center;
       height: 225px;
@@ -30,7 +30,7 @@ body{
 
      }
      header .logo a {
-        background-image:url("images/luffy.png");
+        background-image:url("images/image\ \(2\).png");
         background-size: 150px;
         background-repeat: no-repeat;
         background-position: center;
